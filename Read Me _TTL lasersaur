@@ -1,0 +1,4 @@
+This copy of LasaurApp is modified to meet specific requirments at the Toronto tool Library's East location. Here we use the laser as a learning tool and as such is given help tools. 
+
+Also, the version we have has LasaurApp/firmware/src/config.h file modified for our t5 belts on both and x an y axis. This
+may change over time and could merge back to the original version from Lasersaur's creator, stefanix.
